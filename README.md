@@ -1,9 +1,11 @@
-# Swift Bank
+# People Bank
+
+By Anirudh Misra; Sudarshan Sinha; MASETTI PREETHAM 
 ## The free and open source bank management system
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://youtu.be/_n7Z97n_neg)
 
-This is my first php project. You can make changes and make a good working BMS. I found that lot's of new bank have the problem. They don't have a good working management system. So together we will make them help. 
+This is our first php project. You can make changes and make a good working BMS. I found that lot's of new bank have the problem. They don't have a good working management system. So together we will make them help. 
 
 - Take into consideration that it is not a actual Swift Bank 
 - See more on my youtube channel
